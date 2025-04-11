@@ -1,4 +1,4 @@
-# MISC - Modular Inventory Storage and Crafting
+# SMISC - Storehaus Modular Inventory Storage and Crafting
 
 PRs are welcome to this project, I hope the documentation is clear enough, but if you have any questions feel free to ask.
 
@@ -26,7 +26,7 @@ A minimal MISC system consists of
 
 The client can be advanced or basic, it supports both mouse and keyboard.
 
-On both your server and all your clients simply run `wget run https://raw.githubusercontent.com/MasonGulu/CC-MISC/master/installer.lua`.
+On both your server and all your clients simply run `wget run https://raw.githubusercontent.com/Storehaus/SMISC/master/installer.lua`.
 
 On your server select the base MISC system option.
 
