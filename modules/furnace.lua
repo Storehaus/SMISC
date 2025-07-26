@@ -100,7 +100,7 @@ return {
                 return a.diff < b.diff
             end)
 
-            return fuelDiffs[1].fuel, fuelDiffs[1].multiple, fuelDiffs[1].optimal
+            return fuelDiffs[1].fuel, fuelDiffs[1].multiple, toSmelt
         end
 
         ---@class FurnaceNode : CraftingNode
